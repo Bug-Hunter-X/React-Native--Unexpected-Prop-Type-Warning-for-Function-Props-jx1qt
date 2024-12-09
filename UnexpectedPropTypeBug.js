@@ -1,0 +1,1 @@
+This error occurs when you use a component that expects a specific prop type (e.g., a function) but receives a different type (e.g., a string or undefined).  It's often subtle because the code might compile without warnings, but then crashes at runtime.
